@@ -37,10 +37,3 @@ For support and inquiries, [open an issue](https://github.com/Liwa-al-haq/Distri
 
 ---
 
-
-# Distributed-Testing-System
-# Distributed-Testing-System
-# Distributed-Testing-System
-# Distributed-Testing-System
-# Distributed-Testing-System
-# Distributed-Testing-System
